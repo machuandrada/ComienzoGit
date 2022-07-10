@@ -13,7 +13,7 @@ h1 {
 }
 
 a {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     color: rgba(0, 0, 0, 0.6);
     text-decoration: none;
@@ -31,7 +31,7 @@ form{
 }
 
 label {
-    font-size: 24px;
+    font-size: 18px;
 }
 
 input {
@@ -44,7 +44,7 @@ button {
 }
 
 input, button {
-    font-size: 16px;
+    font-size: 14px;
     color: #000;
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.3);
